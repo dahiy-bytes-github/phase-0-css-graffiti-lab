@@ -19,7 +19,7 @@
   
   #wall #tag-3 {
     display: none;
-    /* Additional properties to ensure specificity */
+    
     width: 100px;
     height: 100px;
     background: transparent;
@@ -27,7 +27,7 @@
   
   #wall #tag-4 {
     display: none;
-    /* Additional properties to ensure specificity */
+    
     width: 100px;
     height: 100px;
     background: transparent;
@@ -35,7 +35,7 @@
   
   #wall #tag-5 {
     display: none;
-    /* Additional properties to ensure specificity */
+  
     width: 100px;
     height: 100px;
     background: transparent;
@@ -43,7 +43,7 @@
   
   #wall #tag-6 {
     display: none;
-    /* Additional properties to ensure specificity */
+    
     width: 100px;
     height: 100px;
     background: transparent;
@@ -51,16 +51,16 @@
   
   #wall #tag-7 {
     display: none;
-    /* Additional properties to ensure specificity */
+
     width: 100px;
     height: 100px;
     background: transparent;
   }
   
-  /* For other classes associated with tags */
+  
   .slick {
     display: none;
-    /* Additional properties to ensure specificity */
+    
     width: 100px;
     height: 100px;
     background: transparent;
@@ -68,16 +68,16 @@
   
   .wicked {
     display: none;
-    /* Additional properties to ensure specificity */
+   
     width: 100px;
     height: 100px;
     background: transparent;
   }
   
-  /* Example of more general rules if needed */
+ 
   .parent div {
     display: none;
-    /* Additional properties to ensure specificity */
+ 
     width: 100px;
     height: 100px;
     background: transparent;
